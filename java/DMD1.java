@@ -24,7 +24,7 @@ class DMD1
 		a1.show();
 		B b1=new B();
 		b1.show();
-		A b2=new B();
+		A b2=new B();   //this is a dynamic memory dispatch.
 		b2.show();
 	}
 }
